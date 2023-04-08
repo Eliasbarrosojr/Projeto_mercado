@@ -11,4 +11,4 @@ delete/
 
 
 obs: dados são fixos. quando o servidor reinicia, os dados precisam ser cadastrados novamente
-tecnologias ultilizadas: Express.js, JavaScript, Typescript.
+tecnologias ultilizadas: Express.js, Typescript, Node.js.
