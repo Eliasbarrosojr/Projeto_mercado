@@ -1,6 +1,6 @@
-/* import { IProduct, IProductsBase } from "./interfaces";
+import { IProduct, IProductsBase } from "./interfaces";
 
 const marketProd: Array<IProduct> = [];
 const Products: Array<IProductsBase> = [];
 
-export { marketProd, Products }; */
+export { marketProd, Products };
